@@ -1,5 +1,7 @@
 # SFIJKPlayerView
 simple mediaPlayer based by IJKPlayer
+
+
 ![Gif icon](https://github.com/jessefang/SFIJKPlayerView/blob/master/Untitled.gif)
 
 # before
