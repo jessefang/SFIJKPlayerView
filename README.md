@@ -1,5 +1,7 @@
 # SFIJKPlayerView
 simple mediaPlayer based by IJKPlayer
+![Gif icon](https://github.com/jessefang/SFIJKPlayerView/blob/master/Untitled.gif)
+
 # before
 first u should add the IJKMediaFramework.framework (cause it too big to commit)
 * 1 here is [IJKPlayer](https://github.com/Bilibili/ijkplayer)
